@@ -1,6 +1,6 @@
 ### Screenshot
 
-<img src="./src/Assets/ScreenShots/ScreenShot.png" alt="ScreenShot" width="250"/>
+<img src="./src/Assets/ScreenShots/Screenshot.png" alt="ScreenShot" width="250"/>
 
 ## Installation
 
